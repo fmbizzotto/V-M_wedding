@@ -1,0 +1,41 @@
+.col{
+    padding: 0%;
+}
+
+.libro{
+    max-width: 888px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.papel{
+    background-image: url(../img/fondo.png);
+    background-repeat: no-repeat;
+    min-height: 570px;
+    max-width: 444px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #B29259;
+}
+
+.pagina{
+    background-repeat: no-repeat;
+    min-height: 500px;
+    width: 357px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+#p1{
+    background-image: url(../img/p1.png);
+}
+#p2{
+    background-image: url(../img/p2.png);
+}
+#p3{
+    background-image: url(../img/p3.png);
+}
+#p4{
+    background-image: url(../img/p4.png);
+}
