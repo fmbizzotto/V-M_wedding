@@ -11,7 +11,7 @@
 .papel{
     background-image: url(../img/papel.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     min-height: 570px;
     max-width: 444px;
     border-style: solid;
