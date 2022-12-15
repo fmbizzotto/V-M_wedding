@@ -9,8 +9,9 @@
 }
 
 .papel{
-    background-image: url(../img/fondo.png);
+    background-image: url(../img/papel.png);
     background-repeat: no-repeat;
+    background-size: contain;
     min-height: 570px;
     max-width: 444px;
     border-style: solid;
@@ -29,6 +30,7 @@
 
 .pagina{
     background-repeat: no-repeat;
+    background-size: contain;
     min-height: 500px;
     width: 357px;
     margin-left: auto;
@@ -54,4 +56,11 @@
 }
 #p5{
     background-image: url(../img/p5.png);
+}
+
+#BTconfirmar{
+    background-image: url(../img/confirmar.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 35px;
 }
