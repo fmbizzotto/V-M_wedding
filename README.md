@@ -14,6 +14,6 @@ One-Page-Website as wedding invitation.
 [View Website](https://fmbizzotto.github.io/V-M_wedding/)
 
 ## To Do
-[ ] browser icon
-[ ] form
-[ ] Meta image
+[_] browser icon
+[_] form
+[_] Meta image
