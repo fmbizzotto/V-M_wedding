@@ -62,5 +62,13 @@
     background-image: url(../img/confirmar.png);
     background-repeat: no-repeat;
     background-position: center;
+    height: 39.5px;
+}
+
+#BTlocation{
+    background-image: url(../img/location.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     height: 35px;
 }
